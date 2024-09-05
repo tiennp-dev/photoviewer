@@ -47,7 +47,8 @@
     "watch": "tsc --watch",
     "test": "echo \"No test specified\"",
     "prepublishOnly": "npm run build",
-    "release": "standard-version"
+    "release": "standard-version",
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "@capacitor/android": "^6.0.0",
