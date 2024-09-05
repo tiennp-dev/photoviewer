@@ -69,7 +69,8 @@ class ShareImage {
     private fun createTmpImageAndShare(image: Image, compressionQuality: Double,
                                        appId: String, appContext: Context) {
         val fileName: String = "share_image_" + System.currentTimeMillis() + ".png"
-        tmpImage = File(appContext.filesDir, fileName)
+        var path: String = Environment.getExternalStorageDirectory().toString() + '/' + Environment.DIRECTORY_DOWNLOADS;
+        tmpImage = File(path, fileName)
         val mImageToBeLoaded = ImageToBeLoaded()
         val toBeLoaded = image.url?.let { mImageToBeLoaded.getToBeLoaded(it) }
         GlideApp.with(appContext)
