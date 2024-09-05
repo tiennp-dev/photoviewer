@@ -1,6 +1,6 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
 <h3 align="center">PHOTO VIEWER</h3>
-<p align="center"><strong><code>@capacitor-community/photoviewer</code></strong></p>
+<p align="center"><strong><code>@tiennp-dev/photoviewer</code></strong></p>
 <br>
 <p align="left">
 Capacitor community plugin for Web and Native Photo Viewer allowing to open fullscreen </p>
@@ -34,10 +34,10 @@ On iOS plugin, the creation of a movie from the pictures stored in the <strong>A
 <br>
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2024?style=flat-square" />
-  <a href="https://www.npmjs.com/package/@capacitor-community/photoviewer"><img src="https://img.shields.io/npm/l/@capacitor-community/photoviewer?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/@tiennp-dev/photoviewer"><img src="https://img.shields.io/npm/l/@tiennp-dev/photoviewer?style=flat-square" /></a>
 <br>
-  <a href="https://www.npmjs.com/package/@capacitor-community/photoviewer"><img src="https://img.shields.io/npm/dw/@capacitor-community/photoviewer?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/@capacitor-community/photoviewer"><img src="https://img.shields.io/npm/v/@capacitor-community/photoviewer?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/@tiennp-dev/photoviewer"><img src="https://img.shields.io/npm/dw/@tiennp-dev/photoviewer?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/@tiennp-dev/photoviewer"><img src="https://img.shields.io/npm/v/@tiennp-dev/photoviewer?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href="#contributors-"><img src="https://img.shields.io/badge/all%20contributors-8-orange?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -61,7 +61,7 @@ meaning that it will not work in IE11 without additional JavaScript transformati
 ## Installation
 
 ```bash
-npm install @capacitor-community/photoviewer
+npm install @tiennp-dev/photoviewer
 npx cap sync
 ```
 

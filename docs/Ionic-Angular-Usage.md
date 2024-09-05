@@ -1,8 +1,8 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
 <h2 align="center">IONIC/ANGULAR USAGE DOCUMENTATION</h2>
-<p align="center"><strong><code>@capacitor-community/photoviewer</code></strong></p>
+<p align="center"><strong><code>@tiennp-dev/photoviewer</code></strong></p>
 <p align="center">
-  In Ionic/Angular Applications, the <code>@capacitor-community/photoviewer</code> can be accessed in component file</p>
+  In Ionic/Angular Applications, the <code>@tiennp-dev/photoviewer</code> can be accessed in component file</p>
 <br>
 
 ## PhotoViewer Usage
@@ -135,7 +135,7 @@ export class HomePageModule {}
  ```js
 import { Component, OnInit, AfterViewInit } from '@angular/core';
 import { PhotoViewer, Image, ViewerOptions, capEchoResult,
-  capShowOptions, capShowResult} from '@capacitor-community/photoviewer';
+  capShowOptions, capShowResult} from '@tiennp-dev/photoviewer';
 import { Capacitor } from '@capacitor/core';
 import { Toast } from '@capacitor/toast';
 

@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { PhotoViewer } from '@capacitor-community/photoviewer';
 import { IonButton, IonContent, IonHeader, IonTitle, IonToolbar } from '@ionic/angular/standalone';
+import { PhotoViewer } from '@tiennp-dev/photoviewer';
 
 @Component({
   selector: 'app-home',
@@ -10,7 +10,7 @@ import { IonButton, IonContent, IonHeader, IonTitle, IonToolbar } from '@ionic/a
   imports: [IonButton, IonHeader, IonToolbar, IonTitle, IonContent],
 })
 export class HomePage {
-  constructor() {}
+  constructor() { }
 
   showSingle() {
     PhotoViewer.show({

@@ -1,6 +1,6 @@
 //
 //  UIViewController.swift
-//  CapacitorCommunityPhotoviewer
+//  TiennpDevPhotoviewer
 //
 //  Created by  Quéau Jean Pierre on 03/10/2022.
 //

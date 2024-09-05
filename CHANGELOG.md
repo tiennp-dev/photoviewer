@@ -323,7 +323,7 @@ Nils Braune)
 
 ### Bug fixes
 
- - Add s.dependency 'ISVImageScrollView' to the CapacitorCommunityPhotoviewer.podspec
+ - Add s.dependency 'ISVImageScrollView' to the TiennpDevPhotoviewer.podspec
 
 ## 1.0.0 (2021-10-17)
 

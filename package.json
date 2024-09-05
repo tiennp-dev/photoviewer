@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/photoviewer",
+  "name": "@tiennp-dev/photoviewer",
   "version": "4.0.1",
   "description": "PhotoViewer table images with fullscreen and sharing capabilities",
   "main": "dist/plugin.cjs.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityPhotoviewer.podspec"
+    "TiennpDevPhotoviewer.podspec"
   ],
   "author": "Jean Pierre Quéau",
   "license": "MIT",

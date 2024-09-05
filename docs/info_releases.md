@@ -4,7 +4,7 @@
   This is a tentative of implementing @Capacitor/core@4.0.1 proposed by rdlabo (Masahiko Sakakibara). 
   For those who want to try it do
   ```
-  npm install @capacitor-community/photoviewer@next
+  npm install @tiennp-dev/photoviewer@next
   ```
   Revert quickly any issue by clearly mentionning V4 in the title of the issue.
 
