@@ -1,6 +1,6 @@
 //
 //  ImagesToVideo.swift
-//  CapacitorCommunityPhotoviewer
+//  TiennpDevPhotoviewer
 //
 //  Created by  Quéau Jean Pierre on 20/03/2021.
 //

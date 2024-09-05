@@ -1,8 +1,8 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
 <h2 align="center">IONIC/VUE USAGE DOCUMENTATION</h2>
-<p align="center"><strong><code>@capacitor-community/photoviewer</code></strong></p>
+<p align="center"><strong><code>@tiennp-dev/photoviewer</code></strong></p>
 <p align="center">
-  In Ionic/Vue Applications, the <code>@capacitor-community/photoviewer</code> can be accessed in component file</p>
+  In Ionic/Vue Applications, the <code>@tiennp-dev/photoviewer</code> can be accessed in component file</p>
 <br>
 
 ## PhotoViewer component
@@ -19,7 +19,7 @@ Define a PhotoViewer component which can be used on any pages of your applicatio
 import { defineComponent, onMounted } from 'vue';
 import { PhotoViewer, Image, ViewerOptions, 
          capEchoOptions, capEchoResult,
-         capShowOptions, capShowResult} from '@capacitor-community/photoviewer';
+         capShowOptions, capShowResult} from '@tiennp-dev/photoviewer';
 import { Toast } from '@capacitor/toast';
 import { base64List } from '@/utils/base64Images';
 export default defineComponent({

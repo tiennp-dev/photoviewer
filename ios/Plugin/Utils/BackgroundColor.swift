@@ -1,6 +1,6 @@
 //
 //  BackgroundColor.swift
-//  CapacitorCommunityPhotoviewer
+//  TiennpDevPhotoviewer
 //
 //  Created by  Quéau Jean Pierre on 04/02/2022.
 //
